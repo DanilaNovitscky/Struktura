@@ -1,0 +1,3 @@
+﻿  peregruzka.cpp
+C:\Users\Даниляр\source\repos\peregruzka\peregruzka\peregruzka.cpp(15,27): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  peregruzka.vcxproj -> C:\Users\Даниляр\source\repos\peregruzka\x64\Debug\peregruzka.exe
